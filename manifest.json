@@ -13,7 +13,8 @@
   "credentialType": "absolute",
   "policies": [],
   "dependencies": {
-    "vtex.events-example": "0.x"
+    "vtex.events-example": "0.x",
+    "vtex.mocked-analytics": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
