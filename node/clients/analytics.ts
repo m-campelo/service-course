@@ -10,7 +10,7 @@ export default class Analytics extends AppClient {
     }
 };
 
-interface LiveUsersProduct {
+export interface LiveUsersProduct {
     slug: string,
     liveUsers: number,
 };
